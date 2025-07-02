@@ -8,7 +8,7 @@ A responsive and fully functional **Scientific Calculator** built using **Java S
 
 ![ScientificCalculator](https://github.com/user-attachments/assets/129a1cde-bef6-4cc8-8ea7-e75da952eb04)
 
-*GUI Preview – Replace with your image or remove if unavailable*
+
 
 ---
 
